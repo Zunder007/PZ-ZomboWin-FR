@@ -1,0 +1,4 @@
+IGUI_FR = {
+	IGUI_Force = "Activer l'option du menu contextuel",
+	IGUI_Debug_Mode = "Basculer en mode débogage",
+}
