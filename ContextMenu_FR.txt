@@ -1,0 +1,17 @@
+ContextMenu_FR = {
+	ContextMenu_Masturbate = "Se masturber",
+	ContextMenu_Masturbation_FingerPussy = "Se doigter",
+	ContextMenu_Masturbation_FingerAss = "Se doigter l'anus",
+	ContextMenu_Masturbation_FingerBoth = "Se doigter les deux",
+	ContextMenu_Masturbation_StrokeCock = "Se branler",
+
+	ContextMenu_Force = "ZomboWin Options",
+	ContextMenu_Force_Pants = "Une ou plusieurs personnes portent des pantalons.",
+	ContextMenu_Force_Oral = "Forcer une relation sexuelle orale",
+	ContextMenu_Force_Intercourse = "Forcer une relation sexuelle",
+	ContextMenu_Force_Consent = "S'engager dans des activités obscènes consensuelles",
+
+	ContextMenu_Debug_Option = "Debug - ZomboLewd",
+	ContextMenu_Debug_Spawn_Comfort_Survivor = "Faire apparaître un survivant de confort",
+	ContextMenu_Debug_Spawn_Comfort_Survivor_Description = "Faire apparaître un survivant prêt à l'acte sexuel à côté de vous. Il sera toujours du genre opposé au votre.",
+}
