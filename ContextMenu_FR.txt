@@ -6,9 +6,9 @@ ContextMenu_FR = {
 	ContextMenu_Masturbation_StrokeCock = "Se branler",
 
 	ContextMenu_Force = "ZomboWin Options",
-	ContextMenu_Force_Pants = "Une ou plusieurs personnes portent des pantalons.",
-	ContextMenu_Force_Oral = "Forcer une relation sexuelle orale",
-	ContextMenu_Force_Intercourse = "Forcer une relation sexuelle",
+	ContextMenu_Force_Pants = "Une ou plusieurs personnes portent des pantalons ou sous-vêtements.",
+	ContextMenu_Force_Oral = "Forcer une fellation brutale",
+	ContextMenu_Force_Intercourse = "Forcer une relation sexuelle brutale",
 	ContextMenu_Force_Consent = "S'engager dans des activités obscènes consensuelles",
 
 	ContextMenu_Debug_Option = "Debug - ZomboLewd",
