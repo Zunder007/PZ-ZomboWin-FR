@@ -6,13 +6,13 @@ UI_FR = {
 	UI_ZL_Trait_Masochist_Description = "Vous aimez être violée. Être violée réduit votre malheur. <br>+1 Pied léger",
 
 	UI_ZL_Trait_Rapist = "Violeur",
-	UI_ZL_Trait_Rapist_Description = "Vous aimez violer tout et tout le monde. Violer des individus sans méfiance réduit votre malheur. <br>+1 Se faufiler",
+	UI_ZL_Trait_Rapist_Description = "Vous aimez le frisson de vaincre quelqu'un ou quelque chose. <br>- Chance bonus plus élevée de vaincre les zombies<br>- Commence avec une corde dans l'inventaire<br>+1 Se faufiler",
 
 	UI_ZL_Trait_Wimp = "Peur du viol",
 	UI_ZL_Trait_Wimp_Description = "Vous êtes paranoïaque face aux actes non consensuels des autres.<br>- Le malheur et le stress augmentent de 2x lors des défaites.",
 
 	UI_ZL_Trait_Necrophiliac = "Nécrophile",
-	UI_ZL_Trait_Necrophiliac_Description = "Avoir des relations sexuelles avec des morts vous apporte beaucoup de bonheur.",
+	UI_ZL_Trait_Necrophiliac_Description = "De toute façon le froid ne vous a jamais dérangé.<br>- Chance bonus plus faible de vaincre les zombies<br>- Les défaites subies de la part des zombies ne vous traumatiseront pas.",
 
 	UI_ZL_Trait_Misogynist = "Misogyne",
 	UI_ZL_Trait_Misogynist_Description = "Déteste les femmes. Les rapports sexuels avec des femmes augmentent le stress et le malheur.",
@@ -21,71 +21,113 @@ UI_FR = {
 	UI_ZL_Trait_Misandrist_Description = "Déteste les hommes. Les relations sexuelles avec des hommes augmentent le stress et le malheur.",
 	
 	UI_ZL_Trait_Everydrop = "Spécial: Consommation",
-	UI_ZL_Trait_Everydrop_Description = "Avaler du sperme ne vous a jamais dérangé, cela pourrait même être nutritif.<br>-6 Faim après un rapport sexuel non traumatisant",
+	UI_ZL_Trait_Everydrop_Description = "Avaler du sperme ne vous a jamais dérangé, cela pourrait même être nutritif.<br>-4 Faim après un rapport sexuel non traumatisant.",
 	
 	UI_ZL_Trait_Virgin = "Expérience: Vierge",
 	UI_ZL_Trait_Virgin_Description = "L'excitation et le plaisir vous échappent. Le premier acte consensuel serait bien plus sincère et passionnant.<br>- Les actes consensuels réduisent le stress et le malheur à un taux de 2x.<br>En cas de défaite:<br>- Gagne le trait 'Traumatisée'<br>- Reçoit un maximum de stress, de malheur et de panique<br>- Douleur intense à l'aine<br><br>Perd ce trait après une défaite ou un acte consensuel.",
 	
 	UI_ZL_Trait_Inexperienced = "Expérience: Inexpérimentée",
-	UI_ZL_Trait_Inexperienced_Description = "Vous êtes récemment devenue sexuellement active et vous découvrez ce tout nouveau monde !<br>- Les actes consensuels réduisent le stress et le malheur à un taux de 1x.<br>En cas de défaite:<br>- Si n'est pas 'Lubrique', gagne le trait 'Traumatisée'.<br>- Reçoit un stress, un malheur et une panique modérés<br>- Douleur modérée à l'aine",
+	UI_ZL_Trait_Inexperienced_Description = "Vous êtes récemment devenue sexuellement active et vous découvrez ce tout nouveau monde !<br>- Les actes consensuels réduisent le stress et le malheur à un taux de 1x.<br>En cas de défaite:<br>- Si n'est pas 'Lubrique', gagne le trait 'Traumatisée'.<br>- Reçoit un stress, un malheur et une panique modérés<br>- Douleur modérée à l'aine.",
 	
 	UI_ZL_Trait_Experienced = "Expérience: Expérimentée",
-	UI_ZL_Trait_Experienced_Description = "Vous êtes expérimentée avec le tango du diable et vous avez tout essayé.<br>- Les actes consensuels sont légèrement moins excitants, réduisant le stress et le malheur à un taux de 0,75x.<br>En cas de défaite:<br>- Si n'est pas 'Lubrique', gagne le trait 'Traumatisée'.<br>- Reçoit un minimum de stress, de malheur et de panique<br>- Légère douleur à l'aine",
+	UI_ZL_Trait_Experienced_Description = "Vous êtes expérimentée avec le tango du diable et vous avez tout essayé.<br>- Les actes consensuels sont légèrement moins excitants, réduisant le stress et le malheur à un taux de 0,75x.<br>En cas de défaite:<br>- Si n'est pas 'Lubrique', gagne le trait 'Traumatisée'.<br>- Reçoit un minimum de stress, de malheur et de panique<br>- Légère douleur à l'aine.",
 	
 	UI_ZL_Trait_Nymphomaniac = "Expérience: Nymphomane",
-	UI_ZL_Trait_Nymphomaniac_Description = "Vous ne seriez pas une nympho si vous n'aimiez pas l'acte.<br>Tout type d'acte sexuel est excitant et votre décompte corporel est devenu une sorte d'accomplissement.<br>- Les défaites et les actes consensuels sont tout aussi excitants, réduisant le stress et le malheur à un taux de 1x.<br>En cas de défaite:<br>- Douleur minimale lors des défaites<br>- N'est jamais traumatisée",
+	UI_ZL_Trait_Nymphomaniac_Description = "Vous ne seriez pas une nympho si vous n'aimiez pas l'acte.<br>Tout type d'acte sexuel est excitant et votre décompte corporel est devenu une sorte d'accomplissement.<br>- Les défaites et les actes consensuels sont tout aussi excitants, réduisant le stress et le malheur à un taux de 1x.<br>En cas de défaite:<br>- Douleur minimale lors des défaites<br>- N'est jamais traumatisée.",
 	
 	UI_ZL_Trait_Innocent = "Personnalité: Innocente",
-	UI_ZL_Trait_Innocent_Description = "Vous aimez tout ce qui est normal. Chaque chose à sa place. Même durant l'apocalypse, il faut se comporter de manière civilisée.<br>- La panique augmente à chaque vêtement saisi<br>Lorsqu'on est à l'extérieur:<br>- La panique augmente sans vêtements<br>- Ne peut pas s'engager dans des actes consensuels<br><br>Les défaites sont toujours traumatisantes.",
+	UI_ZL_Trait_Innocent_Description = "Vous aimez tout ce qui est normal. Chaque chose à sa place. Même durant l'apocalypse, il faut se comporter de manière civilisée.<br>- La panique augmente à chaque vêtement saisi<br>- Impossible de vaincre les zombies<br>Lorsqu'on est à l'extérieur:<br>- La panique augmente sans vêtements<br>- Ne peut pas s'engager dans des actes consensuels<br><br>Les défaites sont toujours traumatisantes.",
 	
 	UI_ZL_Trait_Lewd = "Personnalité: Lubrique",
 	UI_ZL_Trait_Lewd_Description = "Vous trouvez un grand réconfort dans tout plaisir; même une petite douleur est excitante.<br>- Peut se livrer à des actes consensuels à l’extérieur<br>- Douleur minimale lors des défaites<br>- Les défaites ne sont jamais traumatisantes.",
 	
 	UI_ZL_Trait_Traumatized = "Personnalité: Traumatisée",
-	UI_ZL_Trait_Traumatized_Description = "Récemment vaincue; dans un état de stress et de dépression durant un certain temps.<br>- Le stress et le malheur réduits au-delà d'un seuil s'accumuleront rapidement<br>- Le stress et le malheur augmentent lentement avec le temps<br>- L'alcool peut atténuer les symptômes",
+	UI_ZL_Trait_Traumatized_Description = "Récemment vaincue; dans un état de stress et de dépression durant un certain temps.<br>- Le stress et le malheur réduits au-delà d'un seuil s'accumuleront rapidement<br>- Le stress et le malheur augmentent lentement avec le temps<br>- L'alcool peut atténuer les symptômes.",
 
 	UI_ZL_Trait_drinkerNoob = "Personnalité: N'a jamais bu auparavant",
-	UI_ZL_Trait_drinkerNoob_Description = "Vous étiez trop jeune pour boire de l'alcool ou vous vous en êtes abstenu.<br>- Le premier verre frappe toujours plus fort quand on est complètement sobre<br>- Trop d'alcool peut vous rendre malade",
+	UI_ZL_Trait_drinkerNoob_Description = "Vous étiez trop jeune pour boire de l'alcool ou vous vous en êtes abstenu.<br>- Le premier verre frappe toujours plus fort quand on est complètement sobre<br>- Trop d'alcool peut vous rendre malade.",
 	
 	UI_ZL_Trait_drinkerLight = "Personnalité: Buveur léger",
-	UI_ZL_Trait_drinkerLight_Description = "Vous êtes un poids plume lorsqu'il s'agit d'alcool.<br>- Lent à se dégriser<br>- Sujet aux intoxications alcooliques",
+	UI_ZL_Trait_drinkerLight_Description = "Vous êtes un poids plume lorsqu'il s'agit d'alcool.<br>- Lent à se dégriser<br>- Sujet aux intoxications alcooliques.",
 	
 	UI_ZL_Trait_drinkerHeavy = "Personnalité: Buveur chevronné",
-	UI_ZL_Trait_drinkerHeavy_Description = "Tu es un ami des quatre cavaliers.<br>- Rapide à se dégriser<br>- Apprécie les boissons alcoolisées<br>- Ne croit pas à l'intoxication alcoolique",
+	UI_ZL_Trait_drinkerHeavy_Description = "Tu es un ami des quatre cavaliers.<br>- Rapide à se dégriser<br>- Apprécie les boissons alcoolisées<br>- Ne croit pas à l'intoxication alcoolique.",
 
 	UI_ZL_Trait_pacify = "Spécial: Apaisante",
-	UI_ZL_Trait_pacify_Description = "Quelle que soit votre performance, vos techniques apaisent même les infectés les plus agressifs.<br>- Une fois terminé, le partenaire zombie devient apaisé.<br>- Affecte uniquement les zombies",
+	UI_ZL_Trait_pacify_Description = "Quelle que soit votre performance, vos techniques apaisent même les infectés les plus agressifs.<br>- Une fois terminé, le partenaire zombie devient apaisé.<br>- Affecte uniquement les zombies.",
 	
 	UI_ZL_Trait_succubus = "Spécial: Succube",
-	UI_ZL_Trait_succubus_Description = "Comme une succube ou un incube, une proie sexuellement distraite devient une cible facile.<br>- Une fois terminé, le partenaire zombie est tué<br>- Affecte uniquement les zombies",
+	UI_ZL_Trait_succubus_Description = "Comme une succube ou un incube, une proie sexuellement distraite devient une cible facile.<br>- Une fois terminé, le partenaire zombie est tué<br>- Affecte uniquement les zombies.",
 	
 	UI_ZL_Trait_gonorrhea = "Maladie: Gonorrhée",
-	UI_ZL_Trait_gonorrhea_Description = "Se propage facilement et brûle comme l'enfer.<br>- Une fois terminé, le zombie partenaire contracte la gonorrhée<br>- Affecte uniquement les zombies<br><br>- Trait de plaisanterie, peut provoquer des incendies.",
+	UI_ZL_Trait_gonorrhea_Description = "Se propage facilement et brûle comme l'enfer.<br>- Une fois terminé, le zombie partenaire contracte la gonorrhée<br>- Affecte uniquement les zombies<br><br>- Caractéristique humoristique, peut provoquer des incendies.",
 	
 	UI_ZL_Trait_AIDS = "Maladie: Sida",
-	UI_ZL_Trait_AIDS_Description = "Pas encore mis en œuvre.<br>- Se propage facilement aux autres<br>- Baisse de santé très lente<br>- Incurable",
+	UI_ZL_Trait_AIDS_Description = "Pas encore mis en œuvre.<br>- Se propage facilement aux autres<br>- Baisse de santé très lente<br>- Incurable.",
 	
-	UI_ZL_Trait_Fugly = "Maladie: Négligée",
-	UI_ZL_Trait_Fugly_Description = "Au moins, ils te trouvent toujours comestible.<br>- Les zombies vous déshabilleront ou vous vaincront rarement",
+	UI_ZL_Trait_Fugly = "Ambiguë: Négligée",
+	UI_ZL_Trait_Fugly_Description = "Au moins, ils te trouvent toujours comestible.<br>- Les zombies vous déshabilleront ou vous vaincront rarement.",
 
 	UI_ZL_Trait_submissive = "Personnalité: Soumise",
-	UI_ZL_Trait_submissive_Description = "Vous ne riposterez pas, vous ne le ferez jamais. Les zombies vous vaincront même habillée.<br>- Les zombies ne déshabillent pas le torse pour vaincre.",
+	UI_ZL_Trait_submissive_Description = "Vous ne riposterez pas, vous ne le ferez jamais. Les zombies vous vaincront même habillée.<br>- Les zombies ne déshabillent pas le torse pour vaincre.<br>- Impossible de vaincre les zombies.",
 	
 	UI_ZL_Trait_dominate = "Personnalité: Dominante",
-	UI_ZL_Trait_dominate_Description = "La défaite n'est pas une option. Vous êtes l'alpha dominant sur le terrain.<br>- Ne peut pas être déshabillée ou vaincue tant que la santé n'est pas faible.",
+	UI_ZL_Trait_dominate_Description = "La défaite n'est pas une option. Vous êtes l'alpha dominant sur le terrain.<br>- Ne peut pas être déshabillée ou vaincue tant que la santé n'est pas faible (1/3)<br>OU<br>- Ne peut pas être déshabillée ou vaincue tant que l'endurance est supérieure à la limite d'effort qui doit être fournit pour éviter la fornication.",
 	
 	UI_ZL_Trait_youngBuck = "Fornication: Jeune en rut",
-	UI_ZL_Trait_youngBuck_Description = "Votre énergie rivalise avec celle d'un jeune mâle en rut pendant la saison de la reproduction.<br>- Moins de perte d'endurance durant la copulation<br>- Pas de pénalités d'endurance",
+	UI_ZL_Trait_youngBuck_Description = "Votre énergie rivalise avec celle d'un jeune mâle en rut pendant la saison de la reproduction.<br>- Moins de perte d'endurance durant la copulation<br>- Pénalité d'effort (Endurance) épuisée:<br>- Ne peut pas s'engager dans des activités consensuelles<br>- Pour les Hommes, ne peuvent se livrer à aucune activité sexuelle.",
 	
 	UI_ZL_Trait_AARP = "Fornication: Membre du clud de bridge",
-	UI_ZL_Trait_AARP_Description = "Vous n'êtes plus de la première fraîcheur mais vous pouvez toujours passer un bon moment!<br>- Perte d'endurance plus élevée pendant les activités sexuelles<br>Pénalité d'effort modérée:<br>- Ne peut pas s'engager dans des activités consensuelles",
+	UI_ZL_Trait_AARP_Description = "Vous n'êtes plus de la première fraîcheur mais vous pouvez toujours passer un bon moment!<br>- Perte d'endurance plus élevée pendant les activités sexuelles<br>Pénalité d'effort (Endurance) modérée:<br>- Ne peut pas s'engager dans des activités consensuelles<br>- Pour les Hommes, ne peuvent se livrer à aucune activité sexuelle.",
 	
 	UI_ZL_Trait_inPrime = "Fornication: Fleur de l’âge",
-	UI_ZL_Trait_inPrime_Description = "Étant dans la fleur de l’âge, les choses ne peuvent sembler que positives.<br>- Perte d'endurance normale pendant les activités sexuelles<br>Pénalité pour effort excessif:<br>- Ne peut pas s'engager dans des activités consensuelles",
-	
+	UI_ZL_Trait_inPrime_Description = "Étant dans la fleur de l’âge, les choses ne peuvent sembler que positives.<br>- Perte d'endurance normale pendant les activités sexuelles<br>Pénalité d'effort (Endurance) excessif:<br>- Ne peut pas s'engager dans des activités consensuelles<br>- Pour les Hommes, ne peuvent se livrer à aucune activité sexuelle.",
+
+	UI_ZL_Trait_spunkDefault = "Fornication: Dans la moyenne",
+	UI_ZL_Trait_spunkDefault_Description = "Vous recevez cette caractéristique si vous ne sélectionnez pas de caractéristique Fornication.<br>- Perte d’endurance légèrement supérieure à la normale pendant les activités sexuelles<br>Pénalité d'effort (Endurance) modérée:<br>- Ne peut pas s'engager dans des activités consensuelles<br>- Pour les Hommes, ne peuvent se livrer à aucune activité sexuelle.",
+
 	UI_ZL_Trait_lowEffort = "Fornication: Cadre dynamique",
-	UI_ZL_Trait_lowEffort_Description = "Vous êtes la partenaire ayant le plus souvent les cuisses écartées, et vous pouvez faire ça toute la journée.<br>- Très faible perte d’endurance lors des activités sexuelles<br>Pénalité d'effort élevée:<br>- Ne peut pas s'engager dans des activités consensuelles<br><br>Satisfaite d'avoir une endurance sexuelle élevée.",
+	UI_ZL_Trait_lowEffort_Description = "Vous êtes la partenaire ayant le plus souvent les cuisses écartées, et vous pouvez faire ça toute la journée.<br>- Très faible perte d’endurance lors des activités sexuelles<br>Pénalité d'effort (Endurance) élevée:<br>- Ne peut pas s'engager dans des activités consensuelles<br>- Pour les Hommes, ne peuvent se livrer à aucune activité sexuelle<br><br>Satisfaite d'avoir une endurance sexuelle élevée.",
 	
 	UI_ZL_Trait_smokesAfter = "Personnalité: Fumeur",
-	UI_ZL_Trait_smokesAfter_Description = "Faut fumer une cigarette après ça; c'est la cerise sur le gâteau.<br>- Augmentation du stress après les activités sexuelles",
+	UI_ZL_Trait_smokesAfter_Description = "Faut fumer une cigarette après ça, c'est la cerise sur le gâteau.<br>- Augmentation du stress après toute activité sexuelle.",
+	
+	UI_prof_prostitute = "Prostituée",
+	UI_profdesc_prostitute = "Attirante pour les clients, votre style attirera tout autant les zombies!<br>- Commence avec une arme d'autodéfense.",
+	
+	UI_ZL_Trait_betterAlive = "Mode difficile: Mieux vaux être en vie",
+	UI_ZL_Trait_betterAlive_Description = "Vous ne voudriez pas risquer d'être mordu à cause de certains vêtements.<br>- Les vêtements déchirés ne sont pas conservés dans l'inventaire.",
+	
+	UI_ZL_Trait_buttonedUp = "Personnalité: Boutonnée jusqu'en haut",
+	UI_ZL_Trait_buttonedUp_Description = "Vos vêtements sont toujours portés correctement.<br>- Les zombies tomberont en avant après vous avoir déshabillée.<br><br>Note: Les zombies ne tomberont PAS s'il n'y a pas de vêtements<br>à dépouiller ou si l'option de dépouillage est désactivée.",
+	
+	UI_ZL_Trait_baggyStyle = "Personnalité: Style ample",
+	UI_ZL_Trait_baggyStyle_Description = "Vous préférez les vêtements amples et fluides.<br>- Être déshabillée vous ralentit momentanément.",
+	
+	UI_ZL_Trait_itFollows = "Mode difficile: Ainsi va la vie",
+	UI_ZL_Trait_itFollows_Description = "Vous mourrez après avoir été vaincu.<br><br>(Temporaire) Vous ne pouvez pas vaincre les zombies avec cette caractéristique.",
+	
+	UI_ZL_Trait_promiscuous = "Personnalité: Promiscuité",
+	UI_ZL_Trait_promiscuous_Description = "Vous êtes habituée à avoir de multiple partenaires sexuels, parfois même plusieurs partenaires en même temps.<br>- Aucune limite au nombre de partenaires sexuels différents par tranche de 24 heures.",
+	
+	UI_ZL_Trait_swinger = "Personnalité: Échangiste",
+	UI_ZL_Trait_swinger_Description = "Vous êtes gentille avec les autres.<br>- Limite de 2 partenaires sexuels différents par tranche de 24 heures.",
+	
+	UI_ZL_Trait_noColdShowers = "Personnalité: Déteste les douches froides",
+	UI_ZL_Trait_noColdShowers_Description = "Vous préférez ne pas vous doucher si l'eau est froide.<br>Conditions privilégiées:<br>- À l'intérieur<br>- Le bâtiment doit avoir l'électricité<br><br>Si les conditions ne sont pas remplies:<br>- Augmentation du malheur.",
+	
+	UI_ZL_Trait_unkempt = "Hygiène: Négligée",
+	UI_ZL_Trait_unkempt_Description = "L'apocalypse vous a donné plus d'excuses pour ne pas vous doucher.<br>- Les défaites provoquent une maladie mortelle (3x) non zombifiante<br><br>[Future mise à jour]<br>Réduire cette caractéristique:<br>- Prendre une douche ou un bain une fois par jour en l'espace de 14 jours.",
+	
+	UI_ZL_Trait_dislikesShowers = "Hygiène: Déteste prendre une douche",
+	UI_ZL_Trait_dislikesShowers_Description = "Vous prenniez un bain ou une douche une fois par semaine, probablement. Qui fait les comptes de toute façon ?<br>- Les défaites provoquent une maladie grave (2x) non zombifiante<br><br>[Future mise à jour]<br>Perdre cette caractéristique:<br>- Prendre une douche ou un bain une fois par jour en l'espace de 7 jours.",
+	
+	UI_ZL_Trait_neatTidy = "Hygiène: Propre et net",
+	UI_ZL_Trait_neatTidy_Description = "Le manque de savon parfumé et de climatiseurs ne vous a jamais empêché d'être propre.<br>- Les défaites provoquent une maladie mineure (0,5x) non zombifiante<br><br>[Future mise à jour]<br>Doit se doucher une fois tous les 2 jours, sinon:<br>- Le malheur augmente, toutes les heures.",
+	
+	UI_ZL_Trait_lovesClean = "Hygiène: Adore être propre",
+	UI_ZL_Trait_lovesClean_Description = "Votre tendance à prendre une douche ou un bain est régulière, comme du papier à musique.<br>- Les défaites provoquent une maladie insignifiante (0,2x) non zombifiante<br><br>[Future mise à jour]<br>Doit se doucher une fois par jour, sinon:<br>- Le malheur augmente, toutes les heures.",
+	
+	UI_ZL_Trait_viciousZombies = "Mode difficile: Zombies vicieux",
+	UI_ZL_Trait_viciousZombies_Description = "Ils déchireront vos vêtements lorsqu'ils vous les attrapent!<br>- Les zombies endommageront les vêtements.",
 }
