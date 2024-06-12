@@ -1,0 +1,10 @@
+Moodles_FR = {
+    Moodles_Temptation_Bad_lvl1 = "Yeux errants",
+    Moodles_Temptation_Bad_desc_lvl1 = "Votre regard erre, si seulement vous aviez une vision aux rayons X.<br>- Chance faible de vaincre un zombie",
+    Moodles_Temptation_Bad_lvl2 = "Privation physique",
+    Moodles_Temptation_Bad_desc_lvl2 = "Vous ne vous souvenez pas de la dernière fois où vous avez eu un orgasme.<br>- Chance modérée de vaincre un zombie",
+    Moodles_Temptation_Bad_lvl3 = "Frustrée sexuellement",
+    Moodles_Temptation_Bad_desc_lvl3 = "Pensées intrusives... Vous pourriez faire quelque chose dont vous ne seriez pas fier.<br>- Chance élevée de vaincre un zombie<br>- Légère augmentation du mécontentement",
+    Moodles_Temptation_Bad_lvl4 = "Manque de repères moraux",
+    Moodles_Temptation_Bad_desc_lvl4 = "Vous êtes prête à baiser à peu près n'importe quoi en ce moment!<br>- Vaincra assurement un zombie<br>- Augmentation modérée du mécontentement",
+}
