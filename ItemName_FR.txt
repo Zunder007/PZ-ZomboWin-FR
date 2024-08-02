@@ -1,0 +1,6 @@
+ItemName_FR = {
+	ItemName_Base.Banana_st = "Banane (Lubrifiée)",
+	ItemName_Base.Corn_st = "Maïs (Lubrifié)",
+	ItemName_Base.Eggplant_st = "Aubergine (Lubrifiée)",
+	ItemName_Base.Zucchini_st = "Courgette (Lubrifiée)",
+}
