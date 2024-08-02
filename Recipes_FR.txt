@@ -1,0 +1,6 @@
+Recipes_FR = {
+	Recipe_Lube_banana = "Lubrifier la banane",
+	Recipe_Lube_corn = "Lubrifier le maïs",
+	Recipe_Lube_eggplant = "Lubrifier l'aubergine",
+	Recipe_Lube_zucchini = "Lubrifier la courgette",
+}
