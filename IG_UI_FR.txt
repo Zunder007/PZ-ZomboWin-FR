@@ -1,4 +1,14 @@
 IGUI_FR = {
 	IGUI_Force = "Activer l'option du menu contextuel",
 	IGUI_Debug_Mode = "Basculer en mode débogage",
+
+	IGUI_Main = "Activer Zombo Win",
+	IGUI_Main_TT = "Paramètre principal pour activer toutes les fonctionnalités de ZomboWin.<br><br>Important: les FPS doivent être à 60. Une valeur supérieure ou inférieure affectera le mod.",
+	IGUI_Couple = "Autoriser les relations sexuelles avec d'autres",
+	IGUI_Couple_TT = "Active les options du menu contextuel avec un autre joueur.",
+	IGUI_Solo = "Restriction de pantalon",
+	IGUI_Solo_TT = "Les options du menu contextuel sont verrouillées si le joueur porte un pantalon.",
+	IGUI_Debug_Mode_TT = "À utiliser à vos risques et périls!",
+	IGUI_ItemCat_SexToys = "Jouets sexuels - Improvisés",
+	IGUI_ZW_toysatisfied = "Bonus de satisfaction",
 }
