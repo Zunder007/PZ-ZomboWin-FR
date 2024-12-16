@@ -94,6 +94,12 @@ UI_FR = {
 	
 	UI_prof_prostitute = "Prostituée",
 	UI_profdesc_prostitute = "Attirante pour les clients, votre style attirera tout autant les zombies!<br>- Commence avec une arme d'autodéfense.",
+
+	UI_prof_sexslave = "Esclave sexuelle",
+	UI_profdesc_sexslave = "Vous avez raté la fin du monde alors que vous étiez impuissante, entrain de vous faire ramoner dans un sous-sol humide.<br>Votre évasion a été possible lorsque vos ravisseurs sont devenus des zombies.<br>Comment allez-vous mener votre vie, de nouveau libre ?",
+
+	UI_prof_sexperiment = "Sexpérience",
+	UI_profdesc_sexperiment = "Vous étiez un bébé de substitution issu d'un embryon et d'un sperme infectés. Né immunisé contre l'infection et invisible aux yeux des personnes infectées,<br>votre vie a été une percée scientifique ! Cependant, une fois que vous avez dépassé votre apogée, votre corps a commencé à se détériorer.<br>L'infection a pris le dessus. Votre corps doit absorber ou consommer de l'ADN INFECTÉ pour éviter la propagation de l'infection.<br><br>- Commence la partie infecté<br>- Les rapports sexuels réduisent la zombification<br>- Invisible aux yeux des zombies du même sexe que vous, à moins qu'ils ne soient provoqués",
 	
 	UI_ZL_Trait_betterAlive = "Mode difficile: Mieux vaux être en vie",
 	UI_ZL_Trait_betterAlive_Description = "Vous ne voudriez pas risquer d'être mordu à cause de certains vêtements.<br>- Les vêtements déchirés ne sont pas conservés dans l'inventaire.",
@@ -130,12 +136,6 @@ UI_FR = {
 	
 	UI_ZL_Trait_viciousZombies = "Mode difficile: Zombies vicieux",
 	UI_ZL_Trait_viciousZombies_Description = "Ils déchireront vos vêtements lorsqu'ils vous les attrapent!<br>- Les zombies endommageront les vêtements.",
-
-	UI_prof_sexslave = "Esclave sexuelle",
-	UI_profdesc_sexslave = "Vous avez raté la fin du monde alors que vous étiez impuissante, entrain de vous faire ramoner dans un sous-sol humide.<br>Votre évasion a été possible lorsque vos ravisseurs sont devenus des zombies.<br>Comment allez-vous mener votre vie, de nouveau libre ?",
-
-	UI_prof_sexperiment = "Sexpérience",
-	UI_profdesc_sexperiment = "Vous étiez un bébé de substitution issu d'un embryon et d'un sperme infectés. Né immunisé contre l'infection et invisible aux yeux des personnes infectées,<br>votre vie a été une percée scientifique ! Cependant, une fois que vous avez dépassé votre apogée, votre corps a commencé à se détériorer.<br>L'infection a pris le dessus. Votre corps doit absorber ou consommer de l'ADN INFECTÉ pour éviter la propagation de l'infection.<br><br>- Commence la partie infecté<br>- Les rapports sexuels réduisent la zombification<br>- Invisible aux yeux des zombies du même sexe que vous, à moins qu'ils ne soient provoqués",
 
 	UI_ZL_Trait_cute = "Ambiguë: Charmante",
 	UI_ZL_Trait_cute_Description = "Il y a quelque chose de charmant chez vous que votre/vos partenaire(s) adorent.<br>- Le rapport sexuel est grandement intensifié pour votre partenaire<br>- Les partenaires sexuels ressentent un meilleur orgasme<br><br>- Les partenaires sexuels peuvent générer plus de bruit<br>- Toute défaite engendre plus de mal, y compris la mort.<br>[Caractéristique pas encore implémenté, lol]",
