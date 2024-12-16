@@ -1,7 +1,10 @@
 ContextMenu_FR = {
 	ContextMenu_AskForSex = "Demander...",
 	ContextMenu_DefeatForSex = "Commettre...",
-	ContextMenu_Masturbate = "Se masturber",
+	ContextMenu_Masturbate = "Se masturber...",
+
+	ContextMenu_NeedzwEXP = "ZomboWin Defeat Requis",
+	ContextMenu_NeedzwEXP2 = "Defeat options indisponible.",
 
 	ContextMenu_Mast_disc = "Ressent un certain inconfort, ne peux pas maintenir son excitation!<br>L'inconfort peut provenir<br>- d'une douleur<br>- d'une maladie<br>- d'une dépression sévère<br>- d'un état de panique<br>- d'un stress",
 	ContextMenu_Mast_inno = "Personnalité innocente, trop mal à l'aise pour accomplir un acte à l'extérieur.",
@@ -12,8 +15,10 @@ ContextMenu_FR = {
 	ContextMenu_DefeatForSex_Inno = "Personnalité innocente, il n'y a rien d'autre à faire!",
 
 	ContextMenu_Subdue = "Maîtriser",
+	ContextMenu_Release = "Libérer - Cible",
 	ContextMenu_Subdue_noRope = "Le zombie doit être maîtrisé à l'aide d'une corde.",
 	ContextMenu_Subdue_Yes = "Cible : Maîtrisée avec succès",
+	ContextMenu_Subdue_Released = "La cible est libérée!",
 	ContextMenu_Main_Pants = "Vous portez des vêtements restrictifs, retirez-les.",
 
 	ContextMenu_Intercourse_Io = "Avec: une autre personne",
@@ -27,9 +32,9 @@ ContextMenu_FR = {
 	ContextMenu_DefeatForSex_Intercourse = "une relation sexuelle brutale",
 	ContextMenu_DefeatForSex_Consent = "une relation torride",
 
-	ContextMenu_Debug_Option = "Debug - ZomboLewd",
+	ContextMenu_Debug_Option = "Debug - ZomboWin",
 	ContextMenu_Debug_Spawn_Comfort_Survivor = "Faire apparaître un survivant de confort",
-	ContextMenu_Debug_Spawn_Comfort_Survivor_Description = "Faire apparaître un survivant prêt à l'acte sexuel à côté de vous. Il sera toujours du genre opposé au votre.",
+	ContextMenu_Debug_Spawn_Comfort_Survivor_Description = "Faire apparaître un survivant prêt à l'acte sexuel à côté de vous.",
 
 	ContextMenu_Nominal_Standing_Fingering = "Se doigter",
 	ContextMenu_Nominal_Standing_Regular_Fingering = "Se doigter debout de façon classique",
